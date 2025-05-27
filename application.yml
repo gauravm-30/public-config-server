@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: Config-Server
+server:
+  port: 8081
+db:
+  connection: connection-string
+  host: 127.0.0.1
+  port: 1200
+  
