@@ -1,5 +1,5 @@
 db:
-  connection: connection-string
-  host: 127.0.0.1
-  port: 1200
+  connection: oracledb
+  host: 192.168.29.132
+  port: 3600
   
